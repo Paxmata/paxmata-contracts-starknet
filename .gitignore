@@ -1,0 +1,13 @@
+target/
+.snfoundry_cache/
+snfoundry_trace/
+coverage/
+profile/
+.vscode/
+.idea/
+.env*
+*.pem
+*.key
+*keystore*
+accounts*.json
+snfoundry.toml
